@@ -1,2 +1,1 @@
-# natcar
-Senior design project
+# eec195_lab4
